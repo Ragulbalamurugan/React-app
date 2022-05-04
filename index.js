@@ -5,13 +5,13 @@ import ReactTable from "react-table";
 class App extends Component {  
   render() {  
      const data = [{  
-        name: 'Ayaan',  
+        name: 'Santhosh',  
         age: 26  
         },{  
-         name: 'Ahana',  
+         name: 'Kaviya',  
          age: 22  
          },{  
-         name: 'Peter',  
+         name: 'Siva',  
          age: 40      
          },{  
          name: 'Virat',  
